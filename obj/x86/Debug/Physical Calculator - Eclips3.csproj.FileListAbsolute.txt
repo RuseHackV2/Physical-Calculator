@@ -1,0 +1,9 @@
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\bin\Debug\Physical Calculator - Eclips3.exe
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\bin\Debug\Physical Calculator - Eclips3.pdb
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\obj\x86\Debug\Physical_Calculator___Eclips3.Properties.Resources.resources
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\obj\x86\Debug\Physical Calculator - Eclips3.csproj.GenerateResource.Cache
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\obj\x86\Debug\Physical Calculator - Eclips3.exe
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\obj\x86\Debug\Physical Calculator - Eclips3.pdb
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\obj\x86\Debug\Physical_Calculator___Eclips3.formPC.resources
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\obj\x86\Debug\Physical Calculator - Eclips3.csprojResolveAssemblyReference.cache
+D:\Programmes\Hackathon\Physical Calculator - Eclips3\Physical Calculator - Eclips3\obj\x86\Debug\Physical_Calculator___Eclips3.Resource.resources
